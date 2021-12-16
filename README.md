@@ -14,9 +14,9 @@ Paleta de cores            |  Tipografia
 
 ## Layout
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/70289587/146362310-5afd6e68-c771-4340-bfae-46d11ffecd25.jpg" alt="Mockup DeoX"/>
-</p>
+Desktop           |  Mobile
+:-------------------------:|:-------------------------:
+![DeoX desktop](https://user-images.githubusercontent.com/70289587/146368095-da0490a1-26ab-40de-9d6e-f10ccc996ae8.png)  |  ![Tipografia DeoX](https://user-images.githubusercontent.com/70289587/146368167-9db92ab3-fbb5-4095-aced-710d19082837.png)
 
 ## Tech Stack
 
